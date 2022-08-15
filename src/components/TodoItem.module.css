@@ -1,0 +1,9 @@
+.item{
+  padding: 15px 15px;
+  background-color:rgb(252, 245, 233);
+  border-radius: 5px;
+  font-size: 16px;
+  color: #111;
+  box-shadow: 0px 0px 5px #ccc; 
+  cursor: pointer;
+}

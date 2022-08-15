@@ -1,0 +1,10 @@
+.todos{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0;
+  margin-block: 40px;
+  margin-inline: auto;
+  width: 640px;
+}
